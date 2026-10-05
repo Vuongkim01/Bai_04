@@ -1,6 +1,6 @@
 # /*****************/
-# Mã sinh viên:
-# Họ tên: Kim Duy Vương
+# Kim Duy Vương
+# 20237410
 # /*****************/
 
 from employee import Employee
